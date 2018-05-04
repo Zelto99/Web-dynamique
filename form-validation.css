@@ -1,0 +1,28 @@
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+
+  background-color: #f5f5f5;
+  background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/TtcstKI/videoblocks-abstract-motion-background-digital-plexus-dna-molecule-4k-loop_s4eu-jwazb_thumbnail-full09.png);
+  background-position:0px 0px;
+  background-repeat:no-repeat;
+  margin:o;
+  color:white;
+}
+
+
+.container {
+  max-width: 960px;
+}
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+.border-top-gray { border-top-color: #adb5bd; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+.lh-condensed { line-height: 1.25; }
